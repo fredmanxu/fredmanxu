@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a full stack developer,In the world of the Internet, I want to do something.🍺
 <!--
 **fredmanxu/fredmanxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
