@@ -1,5 +1,8 @@
 ### Hi there 👋
-I am a full stack developer,In the world of the Internet, I want to do something.🍺
+
+Full stack developer looking to make an impact in the digital world. 
+Passionate about coding and a good beer. Cheers 🍺
+
 <!--
 **fredmanxu/fredmanxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
