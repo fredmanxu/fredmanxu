@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🌳 The best time to plant a tree was 10 years ago. The second best time is now.
-
 Believer in seizing the moment and making a positive impact today.
 
 Full stack developer looking to make an impact in the digital world. Passionate about coding and beer. Cheers 🍺
