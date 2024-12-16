@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Believer in seizing the moment and making a positive impact today.
-
 Full stack developer looking to make an impact in the digital world. 
 <!--
 **fredmanxu/fredmanxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
